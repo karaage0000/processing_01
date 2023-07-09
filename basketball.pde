@@ -233,3 +233,5 @@ void ending() {
   text("score:" + point, 500, 600);
   changeGameMode();
 }
+
+//変更1
